@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EurekaTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EurekaTest.war">
+      <element id="artifact" artifact-name="EurekaTest:war exploded" />
+    </root>
+  </artifact>
+</component>
